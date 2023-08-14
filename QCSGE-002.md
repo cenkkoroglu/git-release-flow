@@ -1,1 +1,1 @@
-QCSGE-002.md is implemented
+QCSGE-002.md is revised
